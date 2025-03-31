@@ -1,0 +1,19 @@
+date,amount,category,description
+27-03-2025,900.0,Expense, Viaje a GDL
+28-03-2025,200.0,Income, Renta aerocooler
+29-03-2025,75.0,Expense,Caffenio 
+02-04-2025,150.0,Expense, Almuerzo en restaurante
+03-04-2025,500.0,Income, Venta de equipo de oficina
+04-04-2025,45.0,Expense, Comida rápida
+05-04-2025,220.0,Expense, Compra de materiales de oficina
+06-04-2025,120.0,Income, Alquiler de espacio de trabajo
+07-04-2025,300.0,Expense, Compra de software
+08-04-2025,50.0,Expense, Café con cliente
+09-04-2025,700.0,Income, Proyecto de desarrollo
+10-04-2025,100.0,Expense, Suministros de oficina
+11-04-2025,350.0,Expense, Curso en línea
+12-04-2025,200.0,Income, Venta de muebles de oficina
+13-04-2025,85.0,Expense, Snack en la tarde
+14-04-2025,600.0,Income, Consultoría de TI
+15-04-2025,170.0,Expense, Cena con equipo de trabajo
+16-04-2025,250.0,Income, Venta de impresora
